@@ -90,6 +90,14 @@ git clone https://github.com/Maryamcoco/Terraform-aws-vpc-ec2-httpd.git
 --terraform output aws_instance_public_ip copy and paste the output it gave you on your browser
 Open browser → http://<PUBLIC_IP> → Apache default page should load 🎉
 
+## Server Running Output
+
+The screenshot below shows the Apache web server successfully deployed on an AWS EC2 instance using Terraform.
+
+![Apache Server Running](https://github.com/Maryamcoco/Terraform-aws-vpc-ec2-httpd/blob/master/Screenshot%202025-08-24%20050655.png)
+
+
+
 ---
 🔒 Security Considerations
 
